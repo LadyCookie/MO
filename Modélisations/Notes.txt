@@ -1,0 +1,2 @@
+sélectionner têtes parents de bones + shift + P --> conserver offset
+permet "d'attacher" certains os sans parentés ensemble
